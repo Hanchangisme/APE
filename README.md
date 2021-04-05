@@ -1,4 +1,3 @@
-# APE
 # TEAM APE
 ## We copy money with the granny's legendary recipe 
 - go master branch
