@@ -12,3 +12,7 @@
 
 - https://bitgetlimited.github.io/apidoc/en/swap/#brief-introduction
 
+
+3. You should change API Key
+
+- In copy_money.py file, api key number is not your whore!
