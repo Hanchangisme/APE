@@ -15,4 +15,4 @@
 
 3. You should change API Key
 
-- In copy_money.py file, api key number is not your whore!
+- In copy_money.py file, api key number is not yours!
